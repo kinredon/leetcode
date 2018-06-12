@@ -3,11 +3,11 @@
 
 ### 目录
 
-[11. Container With Most Water.md](/note/11. Container With Most Water.md)
+[11. Container With Most Water.md](./note/11. Container With Most Water.md)
 
-[16. 3Sum Closest.md](note/16. 3Sum Closest.md)
+[16. 3Sum Closest.md](./note/16. 3Sum Closest.md)
 
-[27. Remove Element.md](note/27. Remove Element.md)
+[27. Remove Element.md](./note/27. Remove Element.md)
 
 [35. Search Insert Position.md](note/35. Search Insert Position.md)
 
@@ -21,5 +21,3 @@
 
 [283. Move Zeroes.md](note/283. Move Zeroes.md)
 
-
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
