@@ -2,7 +2,7 @@
 > step by step solve all the leetcode problem，fighting
 
 ### 目录
-[11. Container With Most Water.md](../note/11. Container With Most Water.md)
+[11. Container With Most Water.md](/note/11. Container With Most Water.md)
 
 [16. 3Sum Closest.md](note/16. 3Sum Closest.md)
 
